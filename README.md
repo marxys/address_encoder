@@ -1,2 +1,2 @@
 # address_encoder
-A SystemVerilog Address Encoder 
+A SystemVerilog variable size address encoder.
